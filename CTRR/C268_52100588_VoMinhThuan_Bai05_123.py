@@ -129,4 +129,4 @@ if(res3()==4):
     print("equivalent")
 else:
     print("Inequivalent")
-#abc
+#abcshbbfghfb
